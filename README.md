@@ -7,6 +7,8 @@
 
 :star2: Possess good logical thinking ability, willing to accept new challenges and learn new things
 
+### 📫 How to reach me:
+:email: FreeStar7766@gmail.com
 
 <!--
 **FreeStarChen/FreeStarChen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
