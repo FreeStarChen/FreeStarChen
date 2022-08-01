@@ -1,4 +1,12 @@
-### Hi there 👋
+### Hi, I'm Mark ! 👋
+### I am a Android Developer. :muscle:
+
+:star2: An attentive and quality-focused Android developer with full energy and open mind
+
+:star2: Have leadership experience, good at communicating and teamwork with a positive and optimistic attitude
+
+:star2: Possess good logical thinking ability, willing to accept new challenges and learn new things
+
 
 <!--
 **FreeStarChen/FreeStarChen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
